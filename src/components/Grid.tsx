@@ -17,7 +17,7 @@ const Grid = () => {
                         </div>
                         <div className="">
                             <span className="text-lg">Database</span>
-                            <p className='text-white opacity-50 w-[75%] text-sm'>Every project is a full  Pstgres database, the world's most trusted relational database.</p>
+                            <p className="text-white opacity-50 w-[75%] text-sm">Every project is a full  Postgres database, the world's most trusted relational database.</p>
                         </div>
                         <div className='mt-5'>
                             <div className='flex items-center gap-2 text-sm'>
